@@ -1,3 +1,1 @@
-在写复杂的后台业务时，经常会遇到大量的条件判断，我们会选择if-else或switch来解决，但是如果业务比较繁琐
-的时候，也行再使用他们并不合适。那么我们需要有一个dispatcher分发器，就像express，koa中的router或
-前端框架vue或react中的router一样，我们只想简化controller层的写法。
+## simple-dispatch
